@@ -34,6 +34,4 @@ This Power BI project analyzes business performance using the Global Superstore 
 
 ## 👩🏽‍💻 Author
 Miravic Opara  
-Student at Richard J. Daley College  
-[LinkedIn Profile] *(optional)*  
-[Portfolio Website] *(optional)*
+[LinkedIn](https://www.linkedin.com/in/miravic-opara-218a262b9)
