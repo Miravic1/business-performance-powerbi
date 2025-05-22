@@ -30,7 +30,7 @@ This Power BI project analyzes business performance using the Global Superstore 
 
 ## 📸 Dashboard Preview
 
-![Business Dashboard Screenshot](
+![Business Dashboard Screenshot](https://github.com/Miravic1/business-performance-powerbi/blob/main/BPD%20-%20Dashboard.png)
 
 ## 👩🏽‍💻 Author
 Miravic Opara  
